@@ -1,0 +1,7 @@
+D:\EPAM\Inheritance1_2\Inheritance1_2\bin\Debug\Inheritance1_2.exe.config
+D:\EPAM\Inheritance1_2\Inheritance1_2\bin\Debug\Inheritance1_2.exe
+D:\EPAM\Inheritance1_2\Inheritance1_2\bin\Debug\Inheritance1_2.pdb
+D:\EPAM\Inheritance1_2\Inheritance1_2\obj\Debug\Inheritance1_2.csprojResolveAssemblyReference.cache
+D:\EPAM\Inheritance1_2\Inheritance1_2\obj\Debug\Inheritance1_2.csproj.CoreCompileInputs.cache
+D:\EPAM\Inheritance1_2\Inheritance1_2\obj\Debug\Inheritance1_2.exe
+D:\EPAM\Inheritance1_2\Inheritance1_2\obj\Debug\Inheritance1_2.pdb
