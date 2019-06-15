@@ -1,0 +1,13 @@
+G:\C#.NET\Inheritance1_1\Inheritance1_1\bin\Debug\Inheritance1_1.exe.config
+G:\C#.NET\Inheritance1_1\Inheritance1_1\bin\Debug\Inheritance1_1.exe
+G:\C#.NET\Inheritance1_1\Inheritance1_1\bin\Debug\Inheritance1_1.pdb
+G:\C#.NET\Inheritance1_1\Inheritance1_1\obj\Debug\Inheritance1_1.csproj.CoreCompileInputs.cache
+G:\C#.NET\Inheritance1_1\Inheritance1_1\obj\Debug\Inheritance1_1.exe
+G:\C#.NET\Inheritance1_1\Inheritance1_1\obj\Debug\Inheritance1_1.pdb
+d:\EPAM\Inheritance1_1\Inheritance1_1\obj\Debug\Inheritance1_1.csproj.CoreCompileInputs.cache
+d:\EPAM\Inheritance1_1\Inheritance1_1\obj\Debug\Inheritance1_1.exe
+d:\EPAM\Inheritance1_1\Inheritance1_1\obj\Debug\Inheritance1_1.pdb
+d:\EPAM\Inheritance1_1\Inheritance1_1\bin\Debug\Inheritance1_1.exe.config
+d:\EPAM\Inheritance1_1\Inheritance1_1\bin\Debug\Inheritance1_1.exe
+d:\EPAM\Inheritance1_1\Inheritance1_1\bin\Debug\Inheritance1_1.pdb
+d:\EPAM\Inheritance1_1\Inheritance1_1\obj\Debug\Inheritance1_1.csprojResolveAssemblyReference.cache
